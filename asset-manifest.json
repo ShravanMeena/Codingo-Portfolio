@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shravanmeena.github.io/Codingo-Portfolio/static/css/main.f3539429.chunk.css",
+    "main.js": "/shravanmeena.github.io/Codingo-Portfolio/static/js/main.c5edf824.chunk.js",
+    "main.js.map": "/shravanmeena.github.io/Codingo-Portfolio/static/js/main.c5edf824.chunk.js.map",
+    "runtime-main.js": "/shravanmeena.github.io/Codingo-Portfolio/static/js/runtime-main.75ce5afb.js",
+    "runtime-main.js.map": "/shravanmeena.github.io/Codingo-Portfolio/static/js/runtime-main.75ce5afb.js.map",
+    "static/js/2.d31c3465.chunk.js": "/shravanmeena.github.io/Codingo-Portfolio/static/js/2.d31c3465.chunk.js",
+    "static/js/2.d31c3465.chunk.js.map": "/shravanmeena.github.io/Codingo-Portfolio/static/js/2.d31c3465.chunk.js.map",
+    "index.html": "/shravanmeena.github.io/Codingo-Portfolio/index.html",
+    "precache-manifest.b4701f209503bbf4ea89545205dcad82.js": "/shravanmeena.github.io/Codingo-Portfolio/precache-manifest.b4701f209503bbf4ea89545205dcad82.js",
+    "service-worker.js": "/shravanmeena.github.io/Codingo-Portfolio/service-worker.js",
+    "static/css/main.f3539429.chunk.css.map": "/shravanmeena.github.io/Codingo-Portfolio/static/css/main.f3539429.chunk.css.map",
+    "static/media/bg-callout.jpg": "/shravanmeena.github.io/Codingo-Portfolio/static/media/bg-callout.31f926ac.jpg",
+    "static/media/bg-masthead.jpg": "/shravanmeena.github.io/Codingo-Portfolio/static/media/bg-masthead.c934a8a6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75ce5afb.js",
+    "static/js/2.d31c3465.chunk.js",
+    "static/css/main.f3539429.chunk.css",
+    "static/js/main.c5edf824.chunk.js"
+  ]
+}
