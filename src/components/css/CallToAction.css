@@ -1,0 +1,45 @@
+.CallToAction {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 100px;
+    
+}
+ .CallToAction h1 {
+    margin: 0;
+    font-size: 2.6rem;
+    color: #fff;
+    margin-bottom: 30px;
+}
+/* 
+.CallToAction p {
+    font-weight: 700;
+    color: rgb(33, 37, 41);
+    font-size: 1rem;
+    margin-bottom: 30px;
+} */
+.CallToAction #button1 {
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,.1);
+    font-weight: 700;
+    background-color: #343a40;
+    border-color: #343a40;
+    color: #fff;
+    padding: 1.25rem 2.5rem;
+    text-decoration: none;;
+    border-radius: .25rem;
+    display: inline-block;
+    margin-right: 30px;
+    
+}
+
+.CallToAction #button2 {
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,.1);
+    font-weight: 700;
+    background-color: #fff;
+    border-color: #fff;
+    color:  #343a40;
+    padding: 1.25rem 2.5rem;
+    text-decoration: none;;
+    border-radius: .25rem;
+    display: inline-block;
+    
+}
